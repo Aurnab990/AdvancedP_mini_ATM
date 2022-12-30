@@ -46,7 +46,7 @@ scanf("%d",&choice);
 if(choice == 1)
 {
 
-  printf("\nYour account balance: %f",balance);
+  printf("\nYour account balance: %d",balance);
 }
 else if (choice==2)
 {
